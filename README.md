@@ -2,7 +2,11 @@
 
 A mod for [Herdr](https://herdr.dev) that puts two tabs side by side, like VS Code's split editor. Press **⌘\\**, pick a tab, and the one you're in joins it on the right. It works in reverse too: move a pane out of a split tab into a tab of its own. Shells and agents keep running throughout.
 
-![Join tabs](preview.png)
+![Dragging a pane onto another tab joins them side by side](demo.gif)
+
+*Drag a pane onto a tab and they join side by side. Shown in the [Minimal Frost](https://github.com/denizeroglu/herdr-minimal-frost) layout, which adds the drag on top of this mod.*
+
+![The join picker](preview.png)
 
 ## Install
 
